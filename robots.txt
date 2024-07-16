@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pornaosi.github.io/sitemap
+Sitemap: https://pornaosi.github.io/app/sitemap
+Sitemap: https://pornaosi.github.io/assets/sitemap
+Sitemap: https://pornaosi.github.io/css/sitemap
+Sitemap: https://pornaosi.github.io/includes/sitemap
+Sitemap: https://pornaosi.github.io/item/sitemap
+Sitemap: https://pornaosi.github.io/src/sitemap
